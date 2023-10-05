@@ -3,11 +3,7 @@
 
 void ft_dec(int *ptr)
 {
-    int i = 0;
-    if(ptr[i] != '\0')
-    {
-        i--;
-    }
+   (*ptr)--;
 }
 
 int main() {

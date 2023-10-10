@@ -1,3 +1,3 @@
 CIAO !
 
-don't forget to read, mandatory C wants. because if you samething like this. moulinete can detect some sus
+don't forget to read, mandatory C. because if you do samething like this. moulinete can detect some sus
